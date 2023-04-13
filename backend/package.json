@@ -1,0 +1,14 @@
+{
+  "name": "mongod-express",
+  "version": "1.0.0",
+  "description": "An app powered by mongodb to handle shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed-Basit-Ali",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
